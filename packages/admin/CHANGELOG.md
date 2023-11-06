@@ -1,5 +1,14 @@
 # @medusajs/admin
 
+## 7.1.7
+
+### Patch Changes
+
+- [`ca411e54e`](https://github.com/medusajs/medusa/commit/ca411e54eb600e1eef05dbbb378d8e06d9b33ad0) Thanks [@olivermrbl](https://github.com/olivermrbl)! - chore: Add missing changeset
+
+- Updated dependencies [[`d7e188722`](https://github.com/medusajs/medusa/commit/d7e1887221467929175e7c69b3064dc7e6c967d8), [`8e48be58e`](https://github.com/medusajs/medusa/commit/8e48be58efe9bfffd0f3f5af098ef2a4cefc4b2d), [`f7e982988`](https://github.com/medusajs/medusa/commit/f7e98298815b0ffb4ce1b6d2d2e1f26ca5e01049)]:
+  - @medusajs/admin-ui@2.1.7
+
 ## 7.1.6
 
 ### Patch Changes

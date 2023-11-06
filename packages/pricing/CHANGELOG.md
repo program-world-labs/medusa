@@ -1,5 +1,16 @@
 # @medusajs/pricing
 
+## 0.1.3
+
+### Patch Changes
+
+- [#5533](https://github.com/medusajs/medusa/pull/5533) [`f88d75b0a`](https://github.com/medusajs/medusa/commit/f88d75b0a7621ff9788a24775fa53d4c2987b52d) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(product, pricing, utils): Transaction issues and reference issues + refactoring
+
+- Updated dependencies [[`154c9b43b`](https://github.com/medusajs/medusa/commit/154c9b43bde1fdff562aba9da8a79af2660b29b3)]:
+  - @medusajs/modules-sdk@1.12.3
+  - @medusajs/types@1.11.6
+  - @medusajs/utils@1.10.5
+
 ## 0.1.2
 
 ### Patch Changes

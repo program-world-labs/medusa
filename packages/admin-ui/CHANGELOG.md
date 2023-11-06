@@ -1,5 +1,15 @@
 # @medusajs/admin-ui
 
+## 2.1.7
+
+### Patch Changes
+
+- [#5566](https://github.com/medusajs/medusa/pull/5566) [`d7e188722`](https://github.com/medusajs/medusa/commit/d7e1887221467929175e7c69b3064dc7e6c967d8) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-ui): Fixes an issue where using the bulk editor with comma as the decimal separator would convert the input to NaN
+
+- [#5530](https://github.com/medusajs/medusa/pull/5530) [`8e48be58e`](https://github.com/medusajs/medusa/commit/8e48be58efe9bfffd0f3f5af098ef2a4cefc4b2d) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-ui): Fixes an issue where regions were not scrollable in tax settings view, also adds a IntersectionObserver to ensure that we load all regions as the user scrolls. The current implementation was capped at loading 20 regions.
+
+- [#5535](https://github.com/medusajs/medusa/pull/5535) [`f7e982988`](https://github.com/medusajs/medusa/commit/f7e98298815b0ffb4ce1b6d2d2e1f26ca5e01049) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-ui): Fix issue were Price List domain would fetch all products on initial load"
+
 ## 2.1.6
 
 ### Patch Changes
